@@ -1,0 +1,177 @@
+[Sun Jan 03 19:21:02.288460 2016] [mpm_event:notice] [pid 369:tid 140336331663168] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 19:21:28.459697 2016] [ssl:warn] [pid 56512:tid 139847900518208] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 19:21:28.474980 2016] [ssl:warn] [pid 56513:tid 139847900518208] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 19:21:28.475140 2016] [lbmethod_heartbeat:notice] [pid 56513:tid 139847900518208] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 19:21:28.477635 2016] [mpm_event:notice] [pid 56513:tid 139847900518208] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 19:21:28.477673 2016] [core:notice] [pid 56513:tid 139847900518208] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 19:33:36.929402 2016] [mpm_event:notice] [pid 56513:tid 139847900518208] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 19:34:00.573175 2016] [ssl:warn] [pid 57468:tid 140492804097856] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 19:34:00.589085 2016] [ssl:warn] [pid 57469:tid 140492804097856] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 19:34:00.589243 2016] [lbmethod_heartbeat:notice] [pid 57469:tid 140492804097856] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 19:34:00.590309 2016] [mpm_event:notice] [pid 57469:tid 140492804097856] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 19:34:00.590344 2016] [core:notice] [pid 57469:tid 140492804097856] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 19:35:24.569612 2016] [mpm_event:notice] [pid 57469:tid 140492804097856] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 19:35:28.602566 2016] [ssl:warn] [pid 58006:tid 140483171194688] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 19:35:28.618529 2016] [ssl:warn] [pid 58007:tid 140483171194688] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 19:35:28.618697 2016] [lbmethod_heartbeat:notice] [pid 58007:tid 140483171194688] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 19:35:28.621998 2016] [mpm_event:notice] [pid 58007:tid 140483171194688] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 19:35:28.622035 2016] [core:notice] [pid 58007:tid 140483171194688] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 19:36:07.781196 2016] [mpm_event:notice] [pid 58007:tid 140483171194688] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 19:36:33.961341 2016] [ssl:warn] [pid 59166:tid 140381927274304] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 19:36:33.977977 2016] [ssl:warn] [pid 59167:tid 140381927274304] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 19:36:33.978133 2016] [lbmethod_heartbeat:notice] [pid 59167:tid 140381927274304] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 19:36:33.979300 2016] [mpm_event:notice] [pid 59167:tid 140381927274304] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 19:36:33.979334 2016] [core:notice] [pid 59167:tid 140381927274304] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:03:24.816718 2016] [mpm_event:notice] [pid 59167:tid 140381927274304] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:08:19.272057 2016] [ssl:warn] [pid 1948:tid 139765708474176] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:08:19.298154 2016] [ssl:warn] [pid 1949:tid 139765708474176] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:08:19.298314 2016] [lbmethod_heartbeat:notice] [pid 1949:tid 139765708474176] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:08:19.303044 2016] [mpm_event:notice] [pid 1949:tid 139765708474176] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:08:19.303081 2016] [core:notice] [pid 1949:tid 139765708474176] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:12:00.503537 2016] [mpm_event:notice] [pid 1949:tid 139765708474176] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:12:04.525857 2016] [ssl:warn] [pid 3069:tid 140685379696448] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:12:04.541579 2016] [ssl:warn] [pid 3070:tid 140685379696448] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:12:04.541750 2016] [lbmethod_heartbeat:notice] [pid 3070:tid 140685379696448] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:12:04.542803 2016] [mpm_event:notice] [pid 3070:tid 140685379696448] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:12:04.542838 2016] [core:notice] [pid 3070:tid 140685379696448] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:12:58.984540 2016] [mpm_event:notice] [pid 3070:tid 140685379696448] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:13:03.036810 2016] [ssl:warn] [pid 3616:tid 140108990560064] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:13:03.052404 2016] [ssl:warn] [pid 3617:tid 140108990560064] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:13:03.052563 2016] [lbmethod_heartbeat:notice] [pid 3617:tid 140108990560064] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:13:03.053706 2016] [mpm_event:notice] [pid 3617:tid 140108990560064] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:13:03.053741 2016] [core:notice] [pid 3617:tid 140108990560064] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:13:55.756653 2016] [mpm_event:notice] [pid 3617:tid 140108990560064] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:13:59.799176 2016] [ssl:warn] [pid 4167:tid 140364503996224] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:13:59.817192 2016] [ssl:warn] [pid 4168:tid 140364503996224] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:13:59.817351 2016] [lbmethod_heartbeat:notice] [pid 4168:tid 140364503996224] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:13:59.818377 2016] [mpm_event:notice] [pid 4168:tid 140364503996224] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:13:59.818411 2016] [core:notice] [pid 4168:tid 140364503996224] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:16:27.819209 2016] [mpm_event:notice] [pid 4168:tid 140364503996224] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:16:31.856632 2016] [ssl:warn] [pid 4802:tid 139931482216256] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:16:31.872621 2016] [ssl:warn] [pid 4803:tid 139931482216256] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:16:31.872805 2016] [lbmethod_heartbeat:notice] [pid 4803:tid 139931482216256] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:16:31.873862 2016] [mpm_event:notice] [pid 4803:tid 139931482216256] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:16:31.873896 2016] [core:notice] [pid 4803:tid 139931482216256] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:20:02.308965 2016] [mpm_event:notice] [pid 4803:tid 139931482216256] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:20:06.352118 2016] [ssl:warn] [pid 5503:tid 140037938894656] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:20:06.368294 2016] [ssl:warn] [pid 5504:tid 140037938894656] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:20:06.368448 2016] [lbmethod_heartbeat:notice] [pid 5504:tid 140037938894656] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:20:06.369551 2016] [mpm_event:notice] [pid 5504:tid 140037938894656] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:20:06.369586 2016] [core:notice] [pid 5504:tid 140037938894656] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:23:40.421057 2016] [mpm_event:notice] [pid 5504:tid 140037938894656] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:23:44.477385 2016] [ssl:warn] [pid 6241:tid 140086970984256] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:23:44.499614 2016] [ssl:warn] [pid 6246:tid 140086970984256] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:23:44.499787 2016] [lbmethod_heartbeat:notice] [pid 6246:tid 140086970984256] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:23:44.500966 2016] [mpm_event:notice] [pid 6246:tid 140086970984256] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:23:44.501002 2016] [core:notice] [pid 6246:tid 140086970984256] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:24:40.014695 2016] [mpm_event:notice] [pid 6246:tid 140086970984256] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:25:06.208354 2016] [ssl:warn] [pid 7468:tid 140099562678080] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:25:06.224913 2016] [ssl:warn] [pid 7469:tid 140099562678080] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:25:06.225069 2016] [lbmethod_heartbeat:notice] [pid 7469:tid 140099562678080] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:25:06.226135 2016] [mpm_event:notice] [pid 7469:tid 140099562678080] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:25:06.226172 2016] [core:notice] [pid 7469:tid 140099562678080] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Sun Jan 03 20:25:40.756290 2016] [mpm_event:notice] [pid 7469:tid 140099562678080] AH00491: caught SIGTERM, shutting down
+[Sun Jan 03 20:26:06.901525 2016] [ssl:warn] [pid 8514:tid 140597899654976] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:26:06.918055 2016] [ssl:warn] [pid 8515:tid 140597899654976] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 03 20:26:06.918210 2016] [lbmethod_heartbeat:notice] [pid 8515:tid 140597899654976] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 03 20:26:06.919936 2016] [mpm_event:notice] [pid 8515:tid 140597899654976] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Sun Jan 03 20:26:06.919980 2016] [core:notice] [pid 8515:tid 140597899654976] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Mon Jan 04 14:47:01.623561 2016] [mpm_event:notice] [pid 8515:tid 140597899654976] AH00491: caught SIGTERM, shutting down
+[Mon Jan 04 14:49:34.028733 2016] [ssl:warn] [pid 21565:tid 140033292982080] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 14:49:34.046883 2016] [ssl:warn] [pid 21566:tid 140033292982080] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 14:49:34.047206 2016] [lbmethod_heartbeat:notice] [pid 21566:tid 140033292982080] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 04 14:49:34.048594 2016] [mpm_event:notice] [pid 21566:tid 140033292982080] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Mon Jan 04 14:49:34.048645 2016] [core:notice] [pid 21566:tid 140033292982080] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Mon Jan 04 15:04:23.251746 2016] [mpm_event:notice] [pid 21566:tid 140033292982080] AH00491: caught SIGTERM, shutting down
+[Mon Jan 04 15:04:49.445900 2016] [ssl:warn] [pid 22580:tid 139715257247552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:04:49.470667 2016] [ssl:warn] [pid 22581:tid 139715257247552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:04:49.470887 2016] [lbmethod_heartbeat:notice] [pid 22581:tid 139715257247552] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 04 15:04:49.473152 2016] [mpm_event:notice] [pid 22581:tid 139715257247552] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Mon Jan 04 15:04:49.473192 2016] [core:notice] [pid 22581:tid 139715257247552] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Mon Jan 04 15:10:55.730868 2016] [mpm_event:notice] [pid 22581:tid 139715257247552] AH00491: caught SIGTERM, shutting down
+[Mon Jan 04 15:11:21.882521 2016] [ssl:warn] [pid 23543:tid 140621413648192] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:11:21.907222 2016] [ssl:warn] [pid 23544:tid 140621413648192] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:11:21.907453 2016] [lbmethod_heartbeat:notice] [pid 23544:tid 140621413648192] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 04 15:11:21.909097 2016] [mpm_event:notice] [pid 23544:tid 140621413648192] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Mon Jan 04 15:11:21.909148 2016] [core:notice] [pid 23544:tid 140621413648192] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Mon Jan 04 15:13:04.691319 2016] [mpm_event:notice] [pid 23544:tid 140621413648192] AH00491: caught SIGTERM, shutting down
+[Mon Jan 04 15:14:24.523952 2016] [ssl:warn] [pid 25747:tid 140082817869632] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:14:24.542096 2016] [ssl:warn] [pid 25748:tid 140082817869632] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:14:24.542272 2016] [lbmethod_heartbeat:notice] [pid 25748:tid 140082817869632] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 04 15:14:24.543998 2016] [mpm_event:notice] [pid 25748:tid 140082817869632] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Mon Jan 04 15:14:24.544038 2016] [core:notice] [pid 25748:tid 140082817869632] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Mon Jan 04 15:15:44.980783 2016] [mpm_event:notice] [pid 25748:tid 140082817869632] AH00491: caught SIGTERM, shutting down
+[Mon Jan 04 15:16:11.140920 2016] [ssl:warn] [pid 26890:tid 139728925300544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:16:11.156285 2016] [ssl:warn] [pid 26891:tid 139728925300544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:16:11.156442 2016] [lbmethod_heartbeat:notice] [pid 26891:tid 139728925300544] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 04 15:16:11.157558 2016] [mpm_event:notice] [pid 26891:tid 139728925300544] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Mon Jan 04 15:16:11.157594 2016] [core:notice] [pid 26891:tid 139728925300544] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Mon Jan 04 15:17:00.320443 2016] [mpm_event:notice] [pid 26891:tid 139728925300544] AH00491: caught SIGTERM, shutting down
+[Mon Jan 04 15:17:26.438137 2016] [ssl:warn] [pid 27999:tid 140295705114432] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:17:26.454827 2016] [ssl:warn] [pid 28000:tid 140295705114432] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 04 15:17:26.454983 2016] [lbmethod_heartbeat:notice] [pid 28000:tid 140295705114432] AH02282: No slotmem from mod_heartmonitor
+[Mon Jan 04 15:17:26.456146 2016] [mpm_event:notice] [pid 28000:tid 140295705114432] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Mon Jan 04 15:17:26.456182 2016] [core:notice] [pid 28000:tid 140295705114432] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Mon Jan 04 21:52:41.862015 2016] [core:error] [pid 28005:tid 140295358338816] [client 127.0.0.1:47363] AH00126: Invalid URI in request GET <title>phpMyAdmin HTTP/1.1
+[Wed Jan 06 20:09:28.471481 2016] [proxy_fcgi:error] [pid 28005:tid 140295366731520] [client 127.0.0.1:44069] AH01071: Got error 'PHP message: PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /opt/bitnami/apps/wordpress/htdocs/wp-includes/update.php on line 303\n', referer: http://www.automationoptimization.com/wp-login.php
+[Wed Jan 06 20:21:57.189054 2016] [mpm_event:notice] [pid 28000:tid 140295705114432] AH00491: caught SIGTERM, shutting down
+[Wed Jan 06 20:22:23.357409 2016] [ssl:warn] [pid 6739:tid 140102702569280] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 06 20:22:23.373565 2016] [ssl:warn] [pid 6740:tid 140102702569280] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 06 20:22:23.373746 2016] [lbmethod_heartbeat:notice] [pid 6740:tid 140102702569280] AH02282: No slotmem from mod_heartmonitor
+[Wed Jan 06 20:22:23.374979 2016] [mpm_event:notice] [pid 6740:tid 140102702569280] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Wed Jan 06 20:22:23.375037 2016] [core:notice] [pid 6740:tid 140102702569280] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Wed Jan 06 20:41:04.115164 2016] [core:error] [pid 6747:tid 140102547433216] [client 127.0.0.1:47439] AH00126: Invalid URI in request GET <title>phpMyAdmin HTTP/1.1
+[Thu Jan 07 17:22:25.883349 2016] [mpm_event:notice] [pid 6740:tid 140102702569280] AH00491: caught SIGTERM, shutting down
+[Thu Jan 07 17:22:52.036353 2016] [ssl:warn] [pid 24197:tid 139969812989760] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 17:22:52.053228 2016] [ssl:warn] [pid 24198:tid 139969812989760] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 17:22:52.053388 2016] [lbmethod_heartbeat:notice] [pid 24198:tid 139969812989760] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 07 17:22:52.054581 2016] [mpm_event:notice] [pid 24198:tid 139969812989760] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Thu Jan 07 17:22:52.054619 2016] [core:notice] [pid 24198:tid 139969812989760] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Thu Jan 07 17:23:20.037725 2016] [mpm_event:notice] [pid 24198:tid 139969812989760] AH00491: caught SIGTERM, shutting down
+[Thu Jan 07 17:23:46.233762 2016] [ssl:warn] [pid 25116:tid 140592460601152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 17:23:46.249188 2016] [ssl:warn] [pid 25117:tid 140592460601152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 17:23:46.249343 2016] [lbmethod_heartbeat:notice] [pid 25117:tid 140592460601152] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 07 17:23:46.250552 2016] [mpm_event:notice] [pid 25117:tid 140592460601152] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Thu Jan 07 17:23:46.250588 2016] [core:notice] [pid 25117:tid 140592460601152] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Thu Jan 07 17:23:57.038020 2016] [mpm_event:notice] [pid 25117:tid 140592460601152] AH00491: caught SIGTERM, shutting down
+[Thu Jan 07 17:25:06.172244 2016] [ssl:warn] [pid 26168:tid 140225683330880] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 17:25:06.187845 2016] [ssl:warn] [pid 26169:tid 140225683330880] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 17:25:06.187998 2016] [lbmethod_heartbeat:notice] [pid 26169:tid 140225683330880] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 07 17:25:06.189058 2016] [mpm_event:notice] [pid 26169:tid 140225683330880] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Thu Jan 07 17:25:06.189091 2016] [core:notice] [pid 26169:tid 140225683330880] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Thu Jan 07 17:56:11.348415 2016] [mpm_event:notice] [pid 26169:tid 140225683330880] AH00491: caught SIGTERM, shutting down
+[Thu Jan 07 17:56:55.372438 2016] [ssl:warn] [pid 27619:tid 140249300076352] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 17:56:55.388620 2016] [ssl:warn] [pid 27620:tid 140249300076352] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 17:56:55.388789 2016] [lbmethod_heartbeat:notice] [pid 27620:tid 140249300076352] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 07 17:56:55.389909 2016] [mpm_event:notice] [pid 27620:tid 140249300076352] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Thu Jan 07 17:56:55.389947 2016] [core:notice] [pid 27620:tid 140249300076352] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Thu Jan 07 18:05:38.259166 2016] [mpm_event:notice] [pid 27620:tid 140249300076352] AH00491: caught SIGTERM, shutting down
+[Thu Jan 07 18:06:04.395238 2016] [ssl:warn] [pid 28606:tid 140574482986816] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 18:06:04.411613 2016] [ssl:warn] [pid 28607:tid 140574482986816] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 07 18:06:04.411802 2016] [lbmethod_heartbeat:notice] [pid 28607:tid 140574482986816] AH02282: No slotmem from mod_heartmonitor
+[Thu Jan 07 18:06:04.412954 2016] [mpm_event:notice] [pid 28607:tid 140574482986816] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Thu Jan 07 18:06:04.412991 2016] [core:notice] [pid 28607:tid 140574482986816] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Fri Jan 08 08:38:37.723936 2016] [mpm_event:notice] [pid 28607:tid 140574482986816] AH00491: caught SIGTERM, shutting down
+[Fri Jan 08 08:44:01.237148 2016] [ssl:warn] [pid 43641:tid 140146243761984] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 08 08:44:01.252951 2016] [ssl:warn] [pid 43642:tid 140146243761984] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 08 08:44:01.253105 2016] [lbmethod_heartbeat:notice] [pid 43642:tid 140146243761984] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 08 08:44:01.254147 2016] [mpm_event:notice] [pid 43642:tid 140146243761984] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Fri Jan 08 08:44:01.254184 2016] [core:notice] [pid 43642:tid 140146243761984] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Fri Jan 08 08:44:35.376059 2016] [mpm_event:notice] [pid 43642:tid 140146243761984] AH00491: caught SIGTERM, shutting down
+[Fri Jan 08 08:45:02.686383 2016] [ssl:warn] [pid 44803:tid 139748838553408] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 08 08:45:02.703595 2016] [ssl:warn] [pid 44804:tid 139748838553408] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 08 08:45:02.703769 2016] [lbmethod_heartbeat:notice] [pid 44804:tid 139748838553408] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 08 08:45:02.704861 2016] [mpm_event:notice] [pid 44804:tid 139748838553408] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Fri Jan 08 08:45:02.704894 2016] [core:notice] [pid 44804:tid 139748838553408] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Fri Jan 08 17:34:02.003654 2016] [mpm_event:notice] [pid 44804:tid 139748838553408] AH00491: caught SIGTERM, shutting down
+[Fri Jan 08 17:34:28.193928 2016] [ssl:warn] [pid 3433:tid 140301155129152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 08 17:34:28.220360 2016] [ssl:warn] [pid 3434:tid 140301155129152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 08 17:34:28.220614 2016] [lbmethod_heartbeat:notice] [pid 3434:tid 140301155129152] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 08 17:34:28.222437 2016] [mpm_event:notice] [pid 3434:tid 140301155129152] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Fri Jan 08 17:34:28.222490 2016] [core:notice] [pid 3434:tid 140301155129152] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
+[Fri Jan 08 17:34:35.713523 2016] [mpm_event:notice] [pid 3434:tid 140301155129152] AH00491: caught SIGTERM, shutting down
+[Fri Jan 08 17:35:01.871307 2016] [ssl:warn] [pid 4365:tid 139833778231104] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 08 17:35:01.887620 2016] [ssl:warn] [pid 4366:tid 139833778231104] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 08 17:35:01.887797 2016] [lbmethod_heartbeat:notice] [pid 4366:tid 139833778231104] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 08 17:35:01.888913 2016] [mpm_event:notice] [pid 4366:tid 139833778231104] AH00489: Apache/2.4.17 (Unix) OpenSSL/1.0.1p configured -- resuming normal operations
+[Fri Jan 08 17:35:01.888948 2016] [core:notice] [pid 4366:tid 139833778231104] AH00094: Command line: '/opt/bitnami/apache2/bin/httpd.bin -f /opt/bitnami/apache2/conf/httpd.conf -D DISABLE_BANNER'
